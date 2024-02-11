@@ -1,4 +1,4 @@
-# php-lfi2rce
+# phpinfo-lfi2rce
 A Python3 script to get RCE on a PHP application with LFI+phpinfo and "file_uploads" activated. This attack was discovered in 2011 and here is the full and great research paper:
 - https://insomniasec.com/downloads/publications/LFI%20With%20PHPInfo%20Assistance.pdf
 
